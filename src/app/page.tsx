@@ -1,4 +1,3 @@
-import Slide from "@/components/slide/Slide";
 import Carousel from '@/components/carousel/Carousel'
 import Hero from '@/components/hero/Hero'
 import Image from 'next/image'

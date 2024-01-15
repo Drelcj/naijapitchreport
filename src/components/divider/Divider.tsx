@@ -8,7 +8,7 @@ const Divider = () => {
   <div className="divider divider-horizontal">OR</div>
   <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">NPFL</div>
 </div>
-<p className="flex justify-center rounded-md shadow-lg mb-6 text-2xl animate-pulse"> We've got you covered.</p>
+<p className="flex justify-center rounded-md shadow-lg mb-6 text-2xl animate-pulse"> We got you covered.</p>
     </div>
     
   )
