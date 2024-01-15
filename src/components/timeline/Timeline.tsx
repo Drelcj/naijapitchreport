@@ -31,7 +31,7 @@ const Timeline: React.FC = () => {
   ];
 
   return (
-    <div className="my-4 sm:my-6 md:my-12 bg-gradient-to-r from-blue-200 to-blue-50 shadow-lg rounded-md">
+    <div className="my-5 sm:my-6 md:my-12 bg-gradient-to-r from-blue-200 to-blue-50 shadow-lg rounded-md">
       <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical">
         {events.map((event, index) => (
           <li key={index}>
